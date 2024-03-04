@@ -23,10 +23,14 @@ incidents and enhance their research and academic writing skills.
 
 Sources: 04/03/2024
 
-[^1]: Why the energy sector's latest cyberattack in Europe matters. https://www.weforum.org/agenda/2022/02/cyberattack-amsterdam-rotterdam-antwerp-energy-sector/.
-[^2]: Cybersecurity of critical energy infrastructure - European Parliament. https://www.europarl.europa.eu/RegData/etudes/BRIE/2019/642274/EPRS_BRI%282019%29642274_EN.pdf.
-[^3]: Cybersecurity and the Electric Grid | The State Role in Protecting .... https://www.ncsl.org/energy/cybersecurity-and-the-electric-grid-the-state-role-in-protecting-critical-infrastructure.
-[^4]: Cyber attacks on critical infrastructure - AGCS Global. https://commercial.allianz.com/news-and-insights/expert-risk-articles/cyber-attacks-on-critical-infrastructure.html.
+[^1]: Why the energy sector's latest cyberattack in Europe matters. https://www.weforum.org/agenda/2022/02/cyberattack-amsterdam-rotterdam-antwerp-energy-sector/
+
+[^2]: Cybersecurity of critical energy infrastructure - European Parliament. https://www.europarl.europa.eu/RegData/etudes/BRIE/2019/642274/EPRS_BRI%282019%29642274_EN.pdf
+
+[^3]: Cybersecurity and the Electric Grid https://www.ncsl.org/energy/cybersecurity-and-the-electric-grid-the-state-role-in-protecting-critical-infrastructure
+
+[^4]: Cyber attacks on critical infrastructure - AGCS Global. https://commercial.allianz.com/news-and-insights/expert-risk-articles/cyber-attacks-on-critical-infrastructure.html
+
 
 (1) Report Slams UK Critical Infrastructure Cybersecurity. https://energycentral.com/c/iu/report-slams-uk-critical-infrastructure-cybersecurity.
 (2) Cyber Risk Framework for Critical Infrastructure Threat Scenario .... https://www.jbs.cam.ac.uk/wp-content/uploads/2020/08/crs-integrated-infrastructure-cyber-resiliency-in-society.pdf.
