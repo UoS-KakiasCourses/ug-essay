@@ -43,3 +43,12 @@ Sources: 04/03/2024
 (5) “Cyber Resilience of the UK’s Critical National Infrastructure” Written  https://committees.parliament.uk/writtenevidence/126642/pdf/
 
 (6) undefined. http://www.risk.jbs.cam.ac.uk.
+
+(7) 
+How Geopolitics Impacts the Cyber-Threat Landscape https://www.gartner.com/en/newsroom/press-releases/2022-06-10-how-geopolitics-impacts-the-cyber-threat-landscape 
+
+(8) Why the energy sector's latest cyberattack in Europe matters. https://www.weforum.org/agenda/2022/02/cyberattack-amsterdam-rotterdam-antwerp-energy-sector/
+
+(9) Geopolitical Instability Raises Threat of ‘Catastrophic Cyberattack in the next two years https://www.weforum.org/press/2023/01/geopolitical-instability-raises-threat-of-catastrophic-cyberattack-in-next-two-years/
+
+(10) How Geopolitics Impacts the Cyber-Threat Landscape - Gartner. https://www.gartner.com/en/newsroom/press-releases/2022-06-10-how-geopolitics-impacts-the-cyber-threat-landscape
