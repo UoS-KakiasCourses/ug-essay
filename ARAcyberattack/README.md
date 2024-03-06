@@ -1,4 +1,4 @@
-In this case study we will work to create a 1000 word report, using a cybersecurity incident as inspiration involving critical infrastructure with a focus on electricity:
+In this case study we will work to create a 1000 word report, using a cybersecurity incident as inspiration involving critical infrastructure with a focus in the petroleum sector:
 
 ## Case Study: The 2022 Amsterdam-Rotterdam-Antwerp (ARA) Cyberattack
 
